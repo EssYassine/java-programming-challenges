@@ -8,8 +8,6 @@ In this challenge, you will write a Java program to calculate the perimeter of a
 
 - [Learning Objectives](#learning-objectives)
 - [Input/Output Specification](#inputoutput-specification)
-- [Output Specification](#output-specification)
-- [Example](#example)
 - [Implementation Steps](#implementation-steps)
 - [Hints & Considerations](#hints--considerations)
 - [Bonus Challenge](#bonus-challenge)
