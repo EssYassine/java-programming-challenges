@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Part2
+comment0.text=\r\n\ Part\ 2\:\ Finding\ a\ Gene\ -\ Using\ the\ Simplified\ Algorithm\ Reorganized\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=dna\ startCodon\ endCodon
+comment2.target=java.lang.String\ findSimpleGene(java.lang.String,\ int,\ int)
+comment2.text=\r\n\ Finds\ a\ simple\ gene\ in\ the\ given\ DNA\ sequence\ (with\ \r\n\ uppercase\ or\ lowercase\ letters).\r\n
+comment3.params=dna\ startCodon\ endCodon
+comment3.target=java.lang.String\ extractGene(java.lang.String,\ int,\ int)
+comment3.text=\r\n\ Extracts\ the\ gene\ sequence\ between\ start\ and\ end\ codons.\r\n
+comment4.params=
+comment4.target=void\ testSimpleGene()
+comment4.text=\r\n\ Tests\ the\ updated\ findSimpleGene\ method\ with\ various\ DNA\ sequences.\r\n
+numComments=5
