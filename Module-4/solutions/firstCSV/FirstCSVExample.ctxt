@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=FirstCSVExample
+comment1.params=
+comment1.target=void\ readFood()
+comment2.params=
+comment2.target=void\ tester()
+comment2.text=\r\n\ Tests\ various\ methods\ using\ a\ CSV\ file\ containing\ export\ data.\r\n
+comment3.params=parser\ country
+comment3.target=java.lang.String\ countryInfo(org.apache.commons.csv.CSVParser,\ java.lang.String)
+comment3.text=\r\n\ Retrieves\ information\ about\ a\ specific\ country\ from\ a\ CSV\ file.\r\n
+comment4.params=parser\ exportItem1\ exportItem2
+comment4.target=void\ listExportersTwoProducts(org.apache.commons.csv.CSVParser,\ java.lang.String,\ java.lang.String)
+comment4.text=\r\n\ Prints\ the\ names\ of\ countries\ that\ export\ both\ specified\ products.\r\n
+comment5.params=parser\ exportItem
+comment5.target=int\ numberOfExporters(org.apache.commons.csv.CSVParser,\ java.lang.String)
+comment5.text=\r\n\ Counts\ the\ number\ of\ countries\ that\ export\ a\ specified\ product.\r\n
+comment6.params=parser\ amount
+comment6.target=void\ bigExporters(org.apache.commons.csv.CSVParser,\ java.lang.String)
+numComments=7
