@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=BatchInversions
+comment1.params=inImage
+comment1.target=edu.duke.ImageResource\ makeInversion(edu.duke.ImageResource)
+comment2.params=
+comment2.target=void\ selectAndConvert()
+comment3.params=
+comment3.target=void\ testInversion()
+comment4.params=image\ folderPath\ prefix
+comment4.target=void\ saveImage(edu.duke.ImageResource,\ java.lang.String,\ java.lang.String)
+comment5.params=
+comment5.target=void\ convertAndSave()
+numComments=6
